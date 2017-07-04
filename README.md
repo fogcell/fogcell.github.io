@@ -1,1 +1,1 @@
-# paprika.github.io
+# https://fogcell.github.io/paprika/
